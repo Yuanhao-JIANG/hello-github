@@ -1,2 +1,2 @@
-# hello-github
+# HelloGithub
 this is description
